@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:konversi_suhu/widget/identity.dart';
-import 'package:konversi_suhu/widget/input.dart';
-import 'package:konversi_suhu/widget/celcius_fahrenheit.dart';
-import 'package:konversi_suhu/widget/kelvin_reamur.dart';
+import 'package:konversi_suhu/widgetsample/celcius_fahrenheit.dart';
+import 'package:konversi_suhu/widgetsample/identity.dart';
+import 'package:konversi_suhu/widgetsample/input.dart';
+import 'package:konversi_suhu/widgetsample/kelvin_reamur.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

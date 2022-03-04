@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:konversi_suhu/layout/home.dart';
+import 'package:konversi_suhu/layoutsample/home.dart';
 
 void main() {
   runApp(const MyApp());
